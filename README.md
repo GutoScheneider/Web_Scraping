@@ -6,7 +6,7 @@ web scraping com javascript, utilizando a biblioteca puppeteer.
 - javascript
 
 
-**Comandos utilizados**
+**Como rodar o projeto**
  - npm init -y
  - npm i puppeteer
 
